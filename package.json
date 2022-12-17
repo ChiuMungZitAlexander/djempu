@@ -1,0 +1,22 @@
+{
+  "name": "djempu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "npx eslint src --ext .js,.jsx,.ts,.tsx"
+  },
+  "keywords": [],
+  "author": "Alexander Zhao <zhaomengzhe@gmail.com>",
+  "license": "GPL-3.0 license",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.30.0",
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "@svgdotjs/svg.js": "^3.1.2"
+  }
+}
