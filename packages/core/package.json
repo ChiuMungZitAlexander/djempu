@@ -10,7 +10,7 @@
   "author": "Alexander Zhao <zhaomengzhe@gmail.com>",
   "license": "GPL-3.0 license",
   "devDependencies": {
-    "typescript": "^5.3.3"
+    "typescript": "^6.0.0"
   },
   "dependencies": {
     "@svgdotjs/svg.js": "^3.2.0"
