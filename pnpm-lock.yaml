@@ -25,7 +25,7 @@ importers:
     dependencies:
       '@svgdotjs/svg.js':
         specifier: ^3.2.0
-        version: 3.2.0
+        version: 3.2.8
     devDependencies:
       typescript:
         specifier: ^5.3.3
@@ -116,8 +116,8 @@ packages:
       fastq: 1.16.0
     dev: true
 
-  /@svgdotjs/svg.js@3.2.0:
-    resolution: {integrity: sha512-Tr8p+QVP7y+QT1GBlq1Tt57IvedVH8zCPoYxdHLX0Oof3a/PqnC/tXAkVufv1JQJfsDHlH/UrjcDfgxSofqSNA==}
+  /@svgdotjs/svg.js@3.2.8:
+    resolution: {integrity: sha512-NUdbI/7FDdqGpzKmqr09IQoy9MUcrAC/3bC8gLgXi6OfJuyri450zMLvJekFUhuq3iN5gpdPjoSoStNl9Eijfg==}
     dev: false
 
   /@types/json-schema@7.0.15:
